@@ -35,3 +35,9 @@ Inside Waydroid, check if internet is working:
 ```bash
 waydroid shell ping -c 4 google.com
 ```
+
+All in One
+
+```bash
+git clone https://github.com/NewTechDesign/waydroid-network.git && cd waydroid-network && chmod +x start.sh && sudo ./start.sh
+```
